@@ -1,6 +1,9 @@
 TITLE
 TripTok - Travel Website by thesushantgunjal
 
+LIVE PREVIEW
+https://thesushantgunjal.github.io/triptok.github.io/
+
 ABOUT
 TripTok design in HTML, CSS & BootStrap 5.4.3
 
